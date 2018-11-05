@@ -10,7 +10,7 @@ client.on("ready", () => {
        type: 1,
        name: 'اسم البوت',
        url: 'http://twitch.tv/Streammingg',
-      application_id: '432231487916736542',
+      application_id: '262274898422923264',
   
     }
       });
