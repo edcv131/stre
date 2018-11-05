@@ -17,4 +17,4 @@ client.on("ready", () => {
   });
   
 
-  client.login("توكن");
+  client.login("MjYyMjc0ODk4NDIyOTIzMjY0.DsEgOg.dnMV49VXfdc_OABiEmaX2Yz1jWI");
