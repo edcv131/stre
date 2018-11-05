@@ -1,1 +1,2 @@
-# stre
+# discord-bot
+discord bot
