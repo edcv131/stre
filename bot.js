@@ -8,7 +8,7 @@ client.on("ready", () => {
     status: 'dnd',
     game: { 
        type: 1,
-       name: 'احترمني',
+       name: 'لا اله محمد رسول الله',
        url: 'http://twitch.tv/Streammingg',
       application_id: '262274898422923264',
   
@@ -17,4 +17,4 @@ client.on("ready", () => {
   });
   
 
-  client.login("MjYyMjc0ODk4NDIyOTIzMjY0.DsEgOg.dnMV49VXfdc_OABiEmaX2Yz1jWI");
+  client.login("NDkwMjE4MjIwMjgwODcyOTgw.Ds_vfQ.vHwVmRU06WWjOMeVES5ccdazOZY");
