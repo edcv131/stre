@@ -17,4 +17,4 @@ client.on("ready", () => {
   });
   
 
-  client.login("NDkwMjE4MjIwMjgwODcyOTgw.Ds_vfQ.vHwVmRU06WWjOMeVES5ccdazOZY");
+  client.login("NTEyMDY1NjMzNDg4NDcwMDM2.Ds_1Jw.eYP-eFeZPy00CkCoF42UmeCWlVQ");
